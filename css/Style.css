@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:300,400,600,800');
+
+body{
+	font-family:Open Sans;
+	font-size: 16px;
+	color: #333;
+
+}
+
+.espaciado{
+	padding: 100px 0;
+}
+
+#sec-qled{
+	font-size: 30px;
+	text-transform: uppercase;
+	margin-bottom: 40px;
+	margin-top: 100px;
+}
+
+.btn-light{
+	background-color: #ffffff;
+	color: #00000;
+	border-radius: 20;
+	border: rgba(0,0,0,1.00);
+	text-transform: uppercase;
+	padding: 15px 30px;
+	font-weight: 600;
+	margin-top: 40px;
+	
+}
+.btn-light:hover{
+	background-color: #FFFFFF;
+	color: #00000;
+}
+
+#sec-cooling{
+	margin-top: auto;
+	background-color: #F3F3F3;
+}
+
+#sec-frame{
+	margin-top: auto;
+	background-color: #F3F3F3;
+}
+
+
+footer{
+	background-color: #252525;
+	color: #FFFFFF;
+	padding: 45px 0;
+	text-align: center;
+}
